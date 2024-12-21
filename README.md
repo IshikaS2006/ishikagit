@@ -1,0 +1,2 @@
+# ishikagit
+my first git
